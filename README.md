@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-     <a href="https://hcinfo9.github.io/Cronometro-Dev/](https://hcinfo9.github.io/Cronometro-Dev/">📱 Visite este Projeto</a>
+     <a href="https://hcinfo9.github.io/Cronometro-Dev/">📱 Visite este Projeto</a>
 </p>
 
 <h2 id="layout">🎨 Layout:</h2>
