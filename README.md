@@ -35,7 +35,7 @@ Navegador Web (Google Chrome, Mozilla Firefox, etc.)<br>
 
 Conexão com a internet para carregar recursos externos, como o framework Bootstrap.<br><br>
 
-<h3>Executando o Projeto</h3><br>
+<h3>Executando o Projeto:</h3><br>
 
 
 Para executar a aplicação localmente, siga estas etapas:
@@ -51,7 +51,7 @@ Para executar a aplicação localmente, siga estas etapas:
   <li>Horario e data atual: Clique em Clock.</li>
 </ul><br><br>
 
-<h2 id="colab">🤝 Colaboradores</h2>
+<h2 id="colab">🤝 Colaboradores:</h2>
 
 Um obrigado especial aos colaboradores do Projeto.
 
